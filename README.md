@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently studying on Politeknik Negeri Jember
+I’m Maulana
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaulanaAlirridlo)](https://github.com/anuraghazra/github-readme-stats)
 
